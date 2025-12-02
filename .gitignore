@@ -3,3 +3,6 @@
 *.DS_Store?
 .idea
 .idea/
+project/data/**/*.csv
+project/data/**/*.parquet
+prokject/data/
