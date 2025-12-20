@@ -1,0 +1,5 @@
+# Ignore the compressed data files
+*.json.gz
+
+# Ignore any standard json files
+*.json
